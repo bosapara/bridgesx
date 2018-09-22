@@ -1,4 +1,4 @@
-# bridgesx
+# BridgesX
 
 bridgesx by Jozet
 minetest 0.4.16 / 17
